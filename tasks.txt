@@ -3,3 +3,5 @@ Priority: High
 
 Task: Do assignment
 Priority: Medium
+Task: Clean room
+Priority: Low
